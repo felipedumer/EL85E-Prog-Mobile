@@ -1,0 +1,33 @@
+<?xml version ="1.0" encoding ="utf-8"?><!--  Learn More about how to use App Actions: https://developer.android.com/guide/actions/index.html -->
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item android:id="@+id/menu_novo"
+
+    android:icon="@drawable/ic_launcher_background"
+    android:title="Novo" />
+
+    <item android:id="@+id/menu_mapa"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="Mapa">
+
+    <menu>
+
+        <item android:id="@+id/menu_enviar_alunos"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="Sincronizar"
+            app:showAsAction="always"/>
+
+        <item android:id="@+id/menu_receber_alunos"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="Baixar provas" />
+
+        <item android:id="@+id/menu_preferencias"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="Preferências" />
+    </menu>
+
+    </item>
+
+</menu>

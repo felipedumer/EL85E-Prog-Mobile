@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ap2_Gasolina</string>
+    <string name="valor_gasolina">Valor Gasolina:</string>
+    <string name="bresultado">Resultado</string>
+    <string name="bsair">Sair</string>
+    <string name="valor_etanol">Valor Etanol:</string>
+    <string name="consumo_gasolina">Consumo Gasolina:</string>
+    <string name="consumo_etanol">Consumo Etanol:</string>
+    <string name="resultado">Resultado:</string>
+</resources>

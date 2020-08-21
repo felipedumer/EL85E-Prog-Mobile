@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+	<item
+	    android:id="@+id/menu_novo"
+	    android:showAsAction="always"
+	    android:icon="@drawable/blogger"
+	    android:title="Novo" />
+
+	<item
+	    android:id="@+id/menu_mapa"
+	    android:showAsAction="always"
+	    android:icon="@drawable/deviantart"
+	    android:title="Mapa" />
+
+	<item
+	    android:showAsAction="always"
+	    android:icon="@drawable/digg"
+	    android:title="Mais opcoes" >
+
+	    <menu>
+
+			<item
+			    android:id="@+id/menu_enviar_alunos"
+			    android:showAsAction="always"
+			    android:icon="@drawable/dribbble"
+			    android:title="Sincronizar" />
+		
+			<item
+			    android:id="@+id/menu_receber_provas"
+			    android:showAsAction="always"
+			    android:icon="@drawable/email"
+			    android:title="Baixar provas" />
+		
+			<item
+			    android:id="@+id/menu_preferencias"
+			    android:showAsAction="always"
+			    android:icon="@drawable/evernote"
+			    android:title="Preferencias" />
+
+	    </menu>
+
+	</item>
+
+</menu>

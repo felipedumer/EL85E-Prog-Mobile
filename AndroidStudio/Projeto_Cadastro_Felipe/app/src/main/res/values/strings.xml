@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cadastro de Tarefas - Felipe</string>
+
+    <string name="b_ad_tarefa">Adicionar tarefa</string>
+    <string name="mensagem"> </string>
+    <string name="mensagem1">Você possui as seguintes tarefas</string>
+</resources>

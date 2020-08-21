@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lista1 - Olá mundo</string>
+    <string name="copiar_texto">Copiar Texto</string>
+    <string name="hello_world">Oi World</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ap3</string>
+    <string name="peso">Height</string>
+    <string name="altura">Widght</string>
+    <string name="zeros">0.0</string>
+    <string name="imc">IMC</string>
+    <string name="calcular">Calc</string>
+    <string name="limpar">Clear</string>
+    <string name="erroPeso">Peso inserido incorretamente</string>
+    <string name="erroAltura">Altura inserida incorretamente</string>
+</resources>
